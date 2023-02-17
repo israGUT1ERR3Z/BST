@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1671608498 source:d:\c++\arboles\main.cpp
+	<iostream>
+	<string>
+	"Arbol.h"
+	<cstdlib>
+	<string>
+
+1671608210 source:d:\c++\arboles\src\arbol.cpp
+	"Arbol.h"
+	"Persona.h"
+	"Nodos.h"
+	<iostream>
+	<string>
+	<vector>
+
+1671605440 d:\c++\arboles\include\arbol.h
+	<string>
+	<vector>
+	"Persona.h"
+	"Nodos.h"
+
+1671591472 source:d:\c++\arboles\src\persona.cpp
+	"Persona.h"
+
+1671606764 d:\c++\arboles\include\persona.h
+	<string>
+
+1671433858 source:d:\c++\arboles\src\nodo.cpp
+	"Nodo.h"
+	"Persona.h"
+
+1671434986 d:\c++\arboles\include\nodo.h
+	<string>
+	"Persona.h"
+
+1671606762 source:d:\c++\arboles\src\nodos.cpp
+	"Nodos.h"
+	"Persona.h"
+	<string>
+
+1671606762 d:\c++\arboles\include\nodos.h
+	"Persona.h"
+
